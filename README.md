@@ -82,18 +82,27 @@ seaborn
 
 ## 📸 Screenshots
 
-### Confusion Matrix
-
-Shows the prediction performance of the classifier.
-
 ### Classification Report
 
-Displays Precision, Recall, F1-Score and Accuracy.
+![Classification Report](Screenshots/Classification_Report.png)
+
+---
+
+### Confusion Matrix
+
+![Confusion Matrix](Screenshots/Confusion_Matrix.png)
+
+---
+
+### Sample Predictions
+
+![Sample Predictions](Screenshots/Sample_Predictions.png)
+
+---
 
 ### Top TF-IDF Features
 
-Visualizes the most important words learned by the model.
-
+![Top TF-IDF Features](Screenshots/Top_TF-IDF_features.png)
 ### Sample Predictions
 
 Shows predictions on custom review examples.
